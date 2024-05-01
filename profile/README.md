@@ -1,3 +1,3 @@
-## Colorado Biathlon Club
+# Colorado Biathlon Club
 
-Repos for our web site content and results handling API and front end will land here eventually.
+Not much to see here yet! Repos for our web site content and results handling API and front end will land here eventually.
